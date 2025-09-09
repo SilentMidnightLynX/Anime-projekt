@@ -1,0 +1,55 @@
+body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      background-color: #f6f0f8;
+      color: #3a2c4d;
+    }
+    header {
+      background: linear-gradient(to right, #5e4b8b, #a18cbf);
+      color: #fff;
+      text-align: center;
+      padding: 3rem 1rem;
+    }
+    .uvod {
+      text-align: center;
+      padding: 2rem;
+    }
+    .tlacitko-vice {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.75rem 1.5rem;
+      background-color: #8b73b3;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 600;
+    }
+    .tlacitko-vice:hover {
+      background-color: #735a99;
+    }
+    .sekce-funkci {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 2rem;
+      gap: 2rem;
+    }
+    .funkce {
+      background-color: #fff;
+      border-radius: 16px;
+      box-shadow: 0 4px 8px rgba(90, 64, 125, 0.2);
+      width: 320px;
+      padding: 1rem;
+      text-align: center;
+    }
+    .funkce img {
+      width: 100%;
+      border-radius: 12px;
+    }
+    footer {
+      background-color: #3a2c4d;
+      color: #eee;
+      text-align: center;
+      padding: 2rem 1rem;
+      margin-top: 4rem;
+    }

@@ -1,0 +1,49 @@
+ 
+body {
+ font-family: 'Inter', sans-serif;
+      margin: 0;
+      background-color: #faf6fb;
+      color: #3a2c4d;
+    }
+    header {
+      background: #8b73b3;
+      color: white;
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+    section.obsah {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      line-height: 1.7;
+    }
+    section.obsah h2 {
+      color: #5e4b8b;
+      margin-top: 2rem;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 12px;
+      margin: 1rem 0;
+    }
+    .zpet {
+      text-align: center;
+      margin: 2rem 0;
+    }
+    .zpet a {
+      text-decoration: none;
+      background-color: #5e4b8b;
+      color: white;
+      padding: 0.7rem 1.5rem;
+      border-radius: 10px;
+    }
+    .zpet a:hover {
+      background-color: #3f3160;
+    }
+    footer {
+      background: #3a2c4d;
+      color: #eee;
+      text-align: center;
+      padding: 2rem 1rem;
+      margin-top: 4rem;
+    }
